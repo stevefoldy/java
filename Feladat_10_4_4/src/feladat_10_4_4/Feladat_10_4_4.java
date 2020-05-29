@@ -61,7 +61,7 @@ public class Feladat_10_4_4 {
             if (Stat[i] > 0 ) {
                 System.out.println((i+1) + " betűs szavak száma: " + Stat[i]);
             }
-        }     
+        }
     }
     
 }

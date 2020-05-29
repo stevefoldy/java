@@ -37,7 +37,7 @@ public class Feladat_10_4_1 {
             y += x;
             i++;
         }
-        System.out.println(System.getProperty("line.separator"));
+        System.out.println();
         
         System.out.println("Fibonacci számok 21-30-ig: ");
         i = 20;
@@ -46,7 +46,7 @@ public class Feladat_10_4_1 {
             i++;
         }
         
-        System.out.println(System.getProperty("line.separator"));
+        System.out.println();
     }
     
 }
